@@ -1,0 +1,33 @@
+
+      ___           ___           ___           ___                       ___     
+     /\  \         /\  \         /\  \         /\  \          ___        /\  \    
+    /::\  \       /::\  \       /::\  \        \:\  \        /\  \      /::\  \   
+   /:/\:\  \     /:/\:\  \     /:/\:\  \        \:\  \       \:\  \    /:/\:\  \  
+  /::\~\:\  \   /::\~\:\  \   /:/  \:\  \       /::\  \      /::\__\  /:/  \:\  \ 
+ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/__/ \:\__\     /:/\:\__\  __/:/\/__/ /:/__/ \:\__\
+ \/__\:\/:/  / \/_|::\/:/  / \:\  \  \/__/    /:/  \/__/ /\/:/  /    \:\  \  \/__/
+      \::/  /     |:|::/  /   \:\  \         /:/  /      \::/__/      \:\  \      
+      /:/  /      |:|\/__/     \:\  \        \/__/        \:\__\       \:\  \     
+     /:/  /       |:|  |        \:\__\                     \/__/        \:\__\    
+     \/__/         \|__|         \/__/                                   \/__/    
+
+Discord : https://discord.gg/yBA3vYXBQX
+Group : https://www.roblox.com/groups/11247010/PolarArctic#!/about
+
+Arctic v2
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Karz1337/Arctic/main/ArcticV2"))()
+
+Aimlock
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Karz1337/Arctic/main/ArcticV2"))()
+-- Go Into Combat, Scroll Down And Find Aimlock v2
+
+Auto Stomp Farm
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Karz1337/Arctic/main/ArcticAutoStompFarm"))()
+-- Put Inside Auto Execute
+
+No Swagmode Admin ( OLD )
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Karz1337/Arctic/main/noswagmin"))()
+
+Arctic Hub [ 1 Game Supported ]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Karz1337/ArcticHub/main/Loader"))()
+DoomSpire Brickbattle
